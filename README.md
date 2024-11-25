@@ -1,6 +1,6 @@
-## Hi there 👋
+## Welcome to Chaim's profile!
 
-[<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70">](https://www.dio.me/users/lfchaim)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/lfchaim) [<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70">](https://www.dio.me/users/lfchaim)
 
 <!--
 **lfchaim/lfchaim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
