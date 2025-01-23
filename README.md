@@ -1,4 +1,4 @@
-## Welcome to Chaim's profile!
+## Welcome to lfchaim's profile!
 
 Meu nome é Luis Fernando Chaim.
 
@@ -22,3 +22,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=lfchaim&show_icons=true&theme=dark"/>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfchaim&theme=dark&layout=compact"/>
+</div>
